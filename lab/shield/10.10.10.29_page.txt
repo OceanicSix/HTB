@@ -1,0 +1,226 @@
+[2K[Status: 301, Size: 152, Words: 9, Lines: 2]
+[2K| URL | http://10.10.10.29/wordpress
+[2K| --> | http://10.10.10.29/wordpress/
+[2K    * FUZZ: wordpress
+
+[2K[Status: 301, Size: 152, Words: 9, Lines: 2]
+[2K| URL | http://10.10.10.29/WordPress
+[2K| --> | http://10.10.10.29/WordPress/
+[2K    * FUZZ: WordPress
+
+[2K[Status: 200, Size: 703, Words: 27, Lines: 32]
+[2K| URL | http://10.10.10.29/
+[2K    * FUZZ: 
+
+[2K[Status: 301, Size: 152, Words: 9, Lines: 2]
+[2K| URL | http://10.10.10.29/Wordpress
+[2K| --> | http://10.10.10.29/Wordpress/
+[2K    * FUZZ: Wordpress
+
+[2K[Status: 301, Size: 0, Words: 1, Lines: 1]
+[2K| URL | http://10.10.10.29/wordpress/index.php
+[2K| --> | http://10.10.10.29/wordpress/
+[2K    * FUZZ: index.php
+
+[2K[Status: 301, Size: 163, Words: 9, Lines: 2]
+[2K| URL | http://10.10.10.29/wordpress/wp-content
+[2K| --> | http://10.10.10.29/wordpress/wp-content/
+[2K    * FUZZ: wp-content
+
+[2K[Status: 200, Size: 3354, Words: 225, Lines: 75]
+[2K| URL | http://10.10.10.29/wordpress/wp-login.php
+[2K    * FUZZ: wp-login.php
+
+[2K[Status: 301, Size: 0, Words: 1, Lines: 1]
+[2K| URL | http://10.10.10.29/wordpress/Index.php
+[2K| --> | http://10.10.10.29/wordpress/
+[2K    * FUZZ: Index.php
+
+[2K[Status: 301, Size: 164, Words: 9, Lines: 2]
+[2K| URL | http://10.10.10.29/wordpress/wp-includes
+[2K| --> | http://10.10.10.29/wordpress/wp-includes/
+[2K    * FUZZ: wp-includes
+
+[2K[Status: 301, Size: 0, Words: 1, Lines: 1]
+[2K| URL | http://10.10.10.29/wordpress/INDEX.php
+[2K| --> | http://10.10.10.29/wordpress/
+[2K    * FUZZ: INDEX.php
+
+[2K[Status: 200, Size: 135, Words: 11, Lines: 5]
+[2K| URL | http://10.10.10.29/wordpress/wp-trackback.php
+[2K    * FUZZ: wp-trackback.php
+
+[2K[Status: 301, Size: 161, Words: 9, Lines: 2]
+[2K| URL | http://10.10.10.29/wordpress/wp-admin
+[2K| --> | http://10.10.10.29/wordpress/wp-admin/
+[2K    * FUZZ: wp-admin
+
+[2K[Status: 405, Size: 42, Words: 6, Lines: 1]
+[2K| URL | http://10.10.10.29/wordpress/xmlrpc.php
+[2K    * FUZZ: xmlrpc.php
+
+[2K[Status: 302, Size: 0, Words: 1, Lines: 1]
+[2K| URL | http://10.10.10.29/wordpress/wp-signup.php
+[2K| --> | http://10.10.10.29/wordpress/wp-login.php?action=register
+[2K    * FUZZ: wp-signup.php
+
+[2K[Status: 200, Size: 24088, Words: 4740, Lines: 346]
+[2K| URL | http://10.10.10.29/wordpress/
+[2K    * FUZZ: 
+
+[2K[Status: 301, Size: 0, Words: 1, Lines: 1]
+[2K| URL | http://10.10.10.29/WordPress/index.php
+[2K| --> | http://10.10.10.29/wordpress/
+[2K    * FUZZ: index.php
+
+[2K[Status: 301, Size: 163, Words: 9, Lines: 2]
+[2K| URL | http://10.10.10.29/WordPress/wp-content
+[2K| --> | http://10.10.10.29/WordPress/wp-content/
+[2K    * FUZZ: wp-content
+
+[2K[Status: 200, Size: 3354, Words: 225, Lines: 75]
+[2K| URL | http://10.10.10.29/WordPress/wp-login.php
+[2K    * FUZZ: wp-login.php
+
+[2K[Status: 301, Size: 0, Words: 1, Lines: 1]
+[2K| URL | http://10.10.10.29/WordPress/Index.php
+[2K| --> | http://10.10.10.29/wordpress/
+[2K    * FUZZ: Index.php
+
+[2K[Status: 301, Size: 164, Words: 9, Lines: 2]
+[2K| URL | http://10.10.10.29/WordPress/wp-includes
+[2K| --> | http://10.10.10.29/WordPress/wp-includes/
+[2K    * FUZZ: wp-includes
+
+[2K[Status: 301, Size: 0, Words: 1, Lines: 1]
+[2K| URL | http://10.10.10.29/WordPress/INDEX.php
+[2K| --> | http://10.10.10.29/wordpress/
+[2K    * FUZZ: INDEX.php
+
+[2K[Status: 200, Size: 135, Words: 11, Lines: 5]
+[2K| URL | http://10.10.10.29/WordPress/wp-trackback.php
+[2K    * FUZZ: wp-trackback.php
+
+[2K[Status: 301, Size: 161, Words: 9, Lines: 2]
+[2K| URL | http://10.10.10.29/WordPress/wp-admin
+[2K| --> | http://10.10.10.29/WordPress/wp-admin/
+[2K    * FUZZ: wp-admin
+
+[2K[Status: 405, Size: 42, Words: 6, Lines: 1]
+[2K| URL | http://10.10.10.29/WordPress/xmlrpc.php
+[2K    * FUZZ: xmlrpc.php
+
+[2K[Status: 302, Size: 0, Words: 1, Lines: 1]
+[2K| URL | http://10.10.10.29/WordPress/wp-signup.php
+[2K| --> | http://10.10.10.29/wordpress/wp-login.php?action=register
+[2K    * FUZZ: wp-signup.php
+
+[2K[Status: 301, Size: 0, Words: 1, Lines: 1]
+[2K| URL | http://10.10.10.29/WordPress/
+[2K| --> | http://10.10.10.29/wordpress/
+[2K    * FUZZ: 
+
+[2K[Status: 301, Size: 0, Words: 1, Lines: 1]
+[2K| URL | http://10.10.10.29/Wordpress/index.php
+[2K| --> | http://10.10.10.29/wordpress/
+[2K    * FUZZ: index.php
+
+[2K[Status: 301, Size: 163, Words: 9, Lines: 2]
+[2K| URL | http://10.10.10.29/Wordpress/wp-content
+[2K| --> | http://10.10.10.29/Wordpress/wp-content/
+[2K    * FUZZ: wp-content
+
+[2K[Status: 200, Size: 3354, Words: 225, Lines: 75]
+[2K| URL | http://10.10.10.29/Wordpress/wp-login.php
+[2K    * FUZZ: wp-login.php
+
+[2K[Status: 301, Size: 0, Words: 1, Lines: 1]
+[2K| URL | http://10.10.10.29/Wordpress/Index.php
+[2K| --> | http://10.10.10.29/wordpress/
+[2K    * FUZZ: Index.php
+
+[2K[Status: 301, Size: 164, Words: 9, Lines: 2]
+[2K| URL | http://10.10.10.29/Wordpress/wp-includes
+[2K| --> | http://10.10.10.29/Wordpress/wp-includes/
+[2K    * FUZZ: wp-includes
+
+[2K[Status: 301, Size: 0, Words: 1, Lines: 1]
+[2K| URL | http://10.10.10.29/Wordpress/INDEX.php
+[2K| --> | http://10.10.10.29/wordpress/
+[2K    * FUZZ: INDEX.php
+
+[2K[Status: 200, Size: 135, Words: 11, Lines: 5]
+[2K| URL | http://10.10.10.29/Wordpress/wp-trackback.php
+[2K    * FUZZ: wp-trackback.php
+
+[2K[Status: 301, Size: 161, Words: 9, Lines: 2]
+[2K| URL | http://10.10.10.29/Wordpress/wp-admin
+[2K| --> | http://10.10.10.29/Wordpress/wp-admin/
+[2K    * FUZZ: wp-admin
+
+[2K[Status: 405, Size: 42, Words: 6, Lines: 1]
+[2K| URL | http://10.10.10.29/Wordpress/xmlrpc.php
+[2K    * FUZZ: xmlrpc.php
+
+[2K[Status: 302, Size: 0, Words: 1, Lines: 1]
+[2K| URL | http://10.10.10.29/Wordpress/wp-signup.php
+[2K| --> | http://10.10.10.29/wordpress/wp-login.php?action=register
+[2K    * FUZZ: wp-signup.php
+
+[2K[Status: 301, Size: 0, Words: 1, Lines: 1]
+[2K| URL | http://10.10.10.29/Wordpress/
+[2K| --> | http://10.10.10.29/wordpress/
+[2K    * FUZZ: 
+
+[2K[Status: 200, Size: 0, Words: 1, Lines: 1]
+[2K| URL | http://10.10.10.29/wordpress/wp-content/index.php
+[2K    * FUZZ: index.php
+
+[2K[Status: 301, Size: 170, Words: 9, Lines: 2]
+[2K| URL | http://10.10.10.29/wordpress/wp-content/themes
+[2K| --> | http://10.10.10.29/wordpress/wp-content/themes/
+[2K    * FUZZ: themes
+
+[2K[Status: 301, Size: 171, Words: 9, Lines: 2]
+[2K| URL | http://10.10.10.29/wordpress/wp-content/uploads
+[2K| --> | http://10.10.10.29/wordpress/wp-content/uploads/
+[2K    * FUZZ: uploads
+
+[2K[Status: 301, Size: 171, Words: 9, Lines: 2]
+[2K| URL | http://10.10.10.29/wordpress/wp-content/plugins
+[2K| --> | http://10.10.10.29/wordpress/wp-content/plugins/
+[2K    * FUZZ: plugins
+
+[2K[Status: 200, Size: 0, Words: 1, Lines: 1]
+[2K| URL | http://10.10.10.29/wordpress/wp-content/Index.php
+[2K    * FUZZ: Index.php
+
+[2K[Status: 301, Size: 171, Words: 9, Lines: 2]
+[2K| URL | http://10.10.10.29/wordpress/wp-content/upgrade
+[2K| --> | http://10.10.10.29/wordpress/wp-content/upgrade/
+[2K    * FUZZ: upgrade
+
+[2K[Status: 301, Size: 170, Words: 9, Lines: 2]
+[2K| URL | http://10.10.10.29/wordpress/wp-content/Themes
+[2K| --> | http://10.10.10.29/wordpress/wp-content/Themes/
+[2K    * FUZZ: Themes
+
+[2K[Status: 200, Size: 0, Words: 1, Lines: 1]
+[2K| URL | http://10.10.10.29/wordpress/wp-content/INDEX.php
+[2K    * FUZZ: INDEX.php
+
+[2K[Status: 301, Size: 171, Words: 9, Lines: 2]
+[2K| URL | http://10.10.10.29/wordpress/wp-content/Plugins
+[2K| --> | http://10.10.10.29/wordpress/wp-content/Plugins/
+[2K    * FUZZ: Plugins
+
+[2K[Status: 301, Size: 171, Words: 9, Lines: 2]
+[2K| URL | http://10.10.10.29/wordpress/wp-content/Uploads
+[2K| --> | http://10.10.10.29/wordpress/wp-content/Uploads/
+[2K    * FUZZ: Uploads
+
+[2K[Status: 301, Size: 171, Words: 9, Lines: 2]
+[2K| URL | http://10.10.10.29/wordpress/wp-content/Upgrade
+[2K| --> | http://10.10.10.29/wordpress/wp-content/Upgrade/
+[2K    * FUZZ: Upgrade
+

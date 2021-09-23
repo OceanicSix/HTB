@@ -1,0 +1,11 @@
+administrator MEGACORP_4dm1n!!
+cookie: admin:86575
+$conn = mysqli_connect('localhost','robert','M3g4C0rpUs3r!','garage');
+
+Host>10.10.10.46</Host>
+            <Port>21</Port>
+            <Protocol>0</Protocol>
+            <Type>0</Type>
+            <User>ftpuser</User>
+            <Pass>mc@F1l3ZilL4</Pass>
+

@@ -1,0 +1,10 @@
+ME', 'wordpress124');
+
+/** MySQL database username */
+define('DB_USER', 'wordpressuser124');
+
+/** MySQL database password */
+define('DB_PASSWORD', 'P_-U9dA6q.B|');
+
+/** MySQL hostname */
+define('DB_HOST', 'localhost');

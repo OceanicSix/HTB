@@ -1,0 +1,19 @@
+[2K[Status: 301, Size: 152, Words: 9, Lines: 2]
+[2K| URL | http://10.10.10.29/wordpress
+[2K| --> | http://10.10.10.29/wordpress/
+[2K    * FUZZ: wordpress
+
+[2K[Status: 301, Size: 152, Words: 9, Lines: 2]
+[2K| URL | http://10.10.10.29/WordPress
+[2K| --> | http://10.10.10.29/WordPress/
+[2K    * FUZZ: WordPress
+
+[2K[Status: 200, Size: 703, Words: 27, Lines: 32]
+[2K| URL | http://10.10.10.29/
+[2K    * FUZZ: 
+
+[2K[Status: 301, Size: 152, Words: 9, Lines: 2]
+[2K| URL | http://10.10.10.29/Wordpress
+[2K| --> | http://10.10.10.29/Wordpress/
+[2K    * FUZZ: Wordpress
+

